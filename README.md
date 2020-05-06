@@ -292,16 +292,4 @@ Perform a second order polynomial transform on both the training data and testin
 Once you complete your notebook you will have to share it. Select the icon on the top right a marked in red in the image below, a dialogue box should open, and select the option all content excluding sensitive code cells.
 
 share notebook
-
-You can then share the notebook  via a  URL by scrolling down as shown in the following image:
-
-HTML
-
- 
-
-About the Authors:
-Joseph Santarcangelo has a PhD in Electrical Engineering, his research focused on using machine learning, signal processing, and computer vision to determine how videos impact human cognition. Joseph has been working for IBM since he completed his PhD.
-
-Other contributors: Michelle Carey, Mavis Zhou
-
  
